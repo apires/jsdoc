@@ -26,3 +26,4 @@ out/
 
 # Dotfile detritus
 .DS_Store
+.idea
